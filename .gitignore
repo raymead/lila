@@ -26,3 +26,6 @@ RUNNING_PID
 /modules/*/.classpath
 /modules/*/.project
 /modules/*/.settings/
+
+# Personal
+.idea/
